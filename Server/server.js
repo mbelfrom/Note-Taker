@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3001;
 const path = require("path");
 const fs = require('fs');
 const { Server } = require('http');
@@ -15,5 +15,5 @@ app.get('/', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-
+app.listen(PORT);
 module.exports = Server;
