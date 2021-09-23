@@ -1,8 +1,3 @@
-const express = require('express');
-const app = express();
-const PORT = process.env.PORT;
-const path = require("path");
-
 let noteTitle = document.getElementById('note-title');
 let noteText = document.getElementById('note-textarea');
 let saveNoteBtn = document.getElementById('save-note');
