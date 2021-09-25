@@ -5,6 +5,7 @@
 
 * Description 
 * Technology 
+* Installation
 * Images
 * Contact/Questions
 
@@ -20,11 +21,14 @@ This application note-taker will allow you to modify, save, and delete notes in 
 * [Express.js](http://expressjs.com/)
 * [Node.js](https://nodejs.org/)
 
+## Installation
+
+In order to use this app the CLI and Node.js will need to be utilized
 
 ## Images
 
-![Homework screenshots](.\public\assets\images\Note-taker-1.jpg?raw=true)
-![Homework screenshots](.\public\assets\images\note-taker-2.jpg?raw=true)
+![Homework screenshots](https://user-images.githubusercontent.com/images/Note-taker-1.jpg)
+![Homework screenshots](https://user-images.githubusercontent.com/images/note-taker-2.jpg)
 
 
 ## Contact/Questions
