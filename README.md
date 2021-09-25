@@ -1,5 +1,5 @@
 # Note-Taker
-<https://img.shields.io/badge/Node.js-v.14.17.6-brightgreen><https://img.shields.io/badge/Express.js-4.16.4-blue>
+<img src="https://img.shields.io/badge/Node.js-v.14.17.6-brightgreen"/><img src="https://img.shields.io/badge/Express.js-4.16.4-blue"/>
 --  
 ## Table of Contents
 
@@ -16,15 +16,15 @@ This application note-taker will allow you to modify, save, and delete notes in 
 ## Technology 
 * HTML
 * CSS
-* Javascript
-* Express.js
-* Node.js
+* [Javascript](https://www.javascript.com/)
+* [Express.js](http://expressjs.com/)
+* [Node.js](https://nodejs.org/)
 
 --
 ## Images
 
-![Homework screenshots](./assets/images/Note-taker-1.PNG)
-![Homework screenshots](./assets/images/note-taker-2.PNG)
+![Homework screenshots](.\assets\images\Note-taker-1.PNG)
+![Homework screenshots](.\assets\images\note-taker-2.PNG)
 
 --
 ## Contact/Questions
