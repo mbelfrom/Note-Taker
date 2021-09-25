@@ -23,8 +23,8 @@ This application note-taker will allow you to modify, save, and delete notes in 
 --
 ## Images
 
-![Homework screenshots](.\assets\images\Note-taker-1.PNG)
-![Homework screenshots](.\assets\images\note-taker-2.PNG)
+![Homework screenshots](.public\assets\images\Note-taker-1.PNG)
+![Homework screenshots](.public\assets\images\note-taker-2.PNG)
 
 --
 ## Contact/Questions
