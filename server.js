@@ -4,7 +4,7 @@ const { clog } = require('./clog');
 const PORT = process.env.PORT || 3001;
 const path = require('path');
 const fs = require('fs/promises');
-
+// clog added to monitor localhost activity
 app.use(clog);
 
 app.use(express.json());
